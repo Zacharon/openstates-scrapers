@@ -1,5 +1,13 @@
 # Open States Scrapers
 
+<!-- public-floorplan:start -->
+## Explore the architecture
+
+[**Open the interactive Floorplan**](https://zacharon.github.io/Zacharon/floorplans/openstates-scrapers.html) · [Standalone HTML file](docs/floorplan.html)
+
+A map of this repository’s public source at `68588fa0`. Selected-entry overview; shows representative public files and package boundaries, not an exhaustive dependency or route inventory.
+<!-- public-floorplan:end -->
+
 This repository contains the code responsible for scraping bills & votes for Open States.
 
 ## Links
